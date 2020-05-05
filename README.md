@@ -1,0 +1,2 @@
+# Object-Detection
+In this project we detected the potholes on roads using computer vision and deep learning techniques. In this project I leveraged YoloV3 algorithm and pjreddie darknet repository. The project originally was a group project I will share that github link as well once that is published by the other group member. However, this is my personal work which I was maintaining and creating simultaneously on a smaller dataset.   
