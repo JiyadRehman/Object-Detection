@@ -11,3 +11,6 @@ Steps to be followed:
 6. Mount Google drive on Google Colab.
 7. After doing the above steps you can have look over the code and along with the comments it explain rest of the steps that includes cloning repos and others.
 8. You need to make few changes in config files as per your requirements that are shared as well.
+
+
+Some of the codes have been taken from other free resources
