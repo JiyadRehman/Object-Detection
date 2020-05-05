@@ -1,0 +1,15 @@
+1. Makefile
+  GPU = 1
+  OPENCV =1
+ 
+2. yolov3-voc
+  Copy this file to the folder and replace the other one
+  If you have only one object for detection then use this file as it prepared for single class detection
+  
+ 3. yolov3-voctest
+  Use this one for testing part
+   If you have only one object for detection then use this file as it prepared for single class detection
+
+4. input.cfg
+  Contains the paths for all
+  Change your paths accordingly
